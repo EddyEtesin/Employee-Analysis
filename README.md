@@ -58,7 +58,7 @@ These findings highlight important areas for improving workforce engagement and 
 
 
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
@@ -80,19 +80,19 @@ Open `Employee Analysis.ipynb` in Jupyter Notebook or VSCode and run the cells.
 ---
 
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for improvements or additional analyses.
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🔗 Connect
+##  Connect
 
 For questions or collaborations:
 📧 **[Ediomoetesin40@gmail.com](mailto:Ediomoetesin40@gmail.com)**
